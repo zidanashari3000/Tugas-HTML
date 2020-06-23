@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header {
+    background-color: blue;
+    padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+nav {
+    float: left;
+    width: 30%;
+    height: 200px; 
+    background-color: black;
+    color: white;
+    padding: 20px;
+  }
+
+  nav ul {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    text-decoration: underline;
+    padding: 0;
+
+  }
+
+  article {
+    font-size: larger;
+    float: left;
+    padding: 20px;
+    width: 70%;
+    background-color: #f1f1f1;
+    height: 200px; 
+  }
+
+  footer{
+      text-align: center;
+      font-size: larger;
+  }
